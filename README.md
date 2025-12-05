@@ -1,2 +1,1 @@
-# Dark-Light-mode-switching-with-JavaScript
-This project was created to practice using JavaScript to swap between dark and light modes on a web page.
+The goal of creating this web page was to create a page that had JavaScript functionality to switch the display between light and dark modes.
